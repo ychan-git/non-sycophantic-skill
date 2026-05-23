@@ -1,4 +1,4 @@
-# Non-Sycophantic AI
+# Non-Sycophantic Skill
 
 A `CLAUDE.md` to reduce sycophantic behavior in AI models when giving personal advice.
 
