@@ -12,7 +12,7 @@ A short prompt file you can give to Claude (or adapt for other LLMs) to make it 
 
 ## Why? 為什麼需要這個？
 
-Stanford 2025 年的研究（[Cheng et al., arXiv:2510.01395](https://arxiv.org/abs/2510.01395)）發現：
+Science 2026 年的研究發現：
 
 - 主流 AI 模型肯定使用者行為的比率比人類高 **50%**
 - 即使在使用者明顯有錯的情境，AI 仍有 **51%** 機率站在使用者那邊
