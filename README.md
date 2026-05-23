@@ -1,6 +1,3 @@
-# non-sycophantic-skill
-A CLAUDE.md to reduce AI sycophancy in personal advice conversations
-
 # Non-Sycophantic AI
 
 A `CLAUDE.md` to reduce sycophantic behavior in AI models when giving personal advice.
