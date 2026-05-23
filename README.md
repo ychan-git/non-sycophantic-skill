@@ -48,7 +48,7 @@ Stanford 2025 年的研究（[Cheng et al., arXiv:2510.01395](https://arxiv.org/
 ## Credits 致謝
 
 - 形式參考自 herobrine19 的 [andrej-karpathy-skills
-]([https://twitter.com/karpathy/...](https://github.com/multica-ai/andrej-karpathy-skills))
+](https://github.com/multica-ai/andrej-karpathy-skills)
 - 內容基於 Myra Cheng et al. ,Sycophantic AI decreases prosocial intentions and promotes dependence.Science391,eaec8352(2026).DOI:10.1126/science.aec8352
 
 ## License
